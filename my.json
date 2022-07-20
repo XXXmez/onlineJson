@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Тут будет титл",
+      "author": "Руслан",
+      "id": 2
+    },
+    {
+      "title": "Привет",
+      "author": "Руслан",
+      "id": 3
+    },
+    {
+      "title": "Тест",
+      "author": "Тест",
+      "id": 4
+    },
+    {
+      "title": "f",
+      "author": "f",
+      "id": 5
+    },
+    {
+      "title": "sd",
+      "author": "sd",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
